@@ -1,0 +1,5 @@
+[update_manager velocity]
+type: git_repo
+path: ~/klipper-velocity
+origin: https://github.com/guru-florida/klipper-velocity.git
+is_system_service: False
